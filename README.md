@@ -1,2 +1,2 @@
-# ml_lab_exercises
-Laboratory exercises for machine learning course
+# Machine learning laboratory exercises 
+https://www.fer.unizg.hr/en/course/su
